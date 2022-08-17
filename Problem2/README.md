@@ -1,1 +1,1 @@
-Heroku URL = https://expressoneheroku.herokuapp.com/student/getDetails
+Heroku URL = https://express2heroku.herokuapp.com/student/getDetails
